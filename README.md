@@ -27,13 +27,13 @@ I am continuously learning and I'm excited to develop more skills with useful to
 ![JavaScript](./img/javascript.png)
 ![JQuery](./img/jquery.png)
 ![Node.js](./img/node-js.png)
-![Express.js](./img/express.png)
+<!-- ![Express.js](./img/express.png) -->
 ![CSS3](./img/css3.png)
 ![HTML5](./img/html5.png)
 ![Bootstrap](./img/bootstrap.png)
 ![SASS](./img/sass.png)
 ![Reacgt.js](./img/react.png)
-![Handlebars.js](./img/handlebars.png)
+<!-- ![Handlebars.js](./img/handlebars.png) -->
 ![MySQL](./img/mysql.png)
 ![Sequelize](./img/sequelize.png)
 ![GraphQL](./img/graphql.png)
