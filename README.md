@@ -20,7 +20,7 @@ I am a full stack web developer with experience in accounting and customer servi
 I am continuously learning and I'm excited to develop more skills with useful tools and technologies in order to continue my journey building on the web.
 
 ### - 📫 How to reach me: abdallajama201@gmail.com
-### - 🔭 Check out my profile at https://abdallajama201.github.io/portfolio-v3
+### - 🔭 Check out my portfolio at https://abdallajama201.github.io/portfolio-v3
 
 
 ### - 🌱 Some of my favourite things...
