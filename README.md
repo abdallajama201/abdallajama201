@@ -19,5 +19,22 @@ I am a full stack web developer with experience in accounting and customer servi
 
 I am continuously learning and I'm excited to develop more skills with useful tools and technologies in order to continue my journey building on the web.
 
-- 📫 How to reach me: abdallajama201@gmail.com
-- 🔭 Check out my profile at https://abdallajama201.github.io/portfolio-v3
+### - 📫 How to reach me: abdallajama201@gmail.com
+### - 🔭 Check out my profile at https://abdallajama201.github.io/portfolio-v3
+
+
+### - 🌱 Some of my favourite things...
+![JavaScript](./img/javascript.png)
+![JQuery](./img/jquery.png)
+![Node.js](./img/node-js.png)
+![Express.js](./img/express.png)
+![CSS3](./img/css3.png)
+![HTML5](./img/html5.png)
+![Bootstrap](./img/bootstrap.png)
+![SASS](./img/sass.png)
+![Reacgt.js](./img/react.png)
+![Handlebars.js](./img/handlebars.png)
+![MySQL](./img/mysql.png)
+![Sequelize](./img/sequelize.png)
+![GraphQL](./img/graphql.png)
+![MongoDB](./img/mongodb.png)
